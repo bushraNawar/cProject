@@ -42,6 +42,19 @@
                  </div>	
                  	         	
 	            </div> -->
+	             <!-- success block -->
+<!-- 	                 <div class="row">
+
+                
+                   <div class="col-md-6 success" >
+                  
+                   	
+                   
+
+                    	
+                 </div>	
+                 	         	
+	            </div> -->
              <div class="row">
 
                 
