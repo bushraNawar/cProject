@@ -28,7 +28,20 @@
 		
 	         </div>	
 		
-	    </div>
+	    </div>      
+	    <!-- error block -->
+	                <!--  <div class="row">
+
+                
+                   <div class="col-md-6 error" >
+                  
+                   	
+                   
+
+                    	
+                 </div>	
+                 	         	
+	            </div> -->
              
              <div class="row">
 

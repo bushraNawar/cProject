@@ -19,6 +19,17 @@ margin-top: 2px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
+.error {
+  width: 50%; 
+  margin: 20px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
 .login-header{
   
   width: 100%;
